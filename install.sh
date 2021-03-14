@@ -3,7 +3,7 @@
 # Grub2 Theme
 ##########################################################################
 # This is taken from the Tela grub theme and is therefore licensed 
-# under the GNU General Public licensed
+# under the GNU General Public License
 ##########################################################################
 
 ROOT_UID=0
