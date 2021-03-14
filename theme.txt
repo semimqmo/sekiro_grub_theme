@@ -11,7 +11,6 @@ terminal-border: "0"
 
 
 + boot_menu {
-    pad_top = 500
     left = 0%
     width = 55%
     top = 25%
