@@ -35,7 +35,7 @@ terminal-border: "0"
     width = 300
     height = 20
     font = "Fira Code Regular 20"
-    text_color = "#000000"
+    color = "#000000"
     align = "center"
     text = "Hesitation is defeat: %ds"
 }
